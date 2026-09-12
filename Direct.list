@@ -8,6 +8,7 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,jrs
 DOMAIN-KEYWORD,nana
+DOMAIN-KEYWORD,br
 
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
